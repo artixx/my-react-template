@@ -1,0 +1,12 @@
+.testComponent {
+  width: 512px;
+  height: 256px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #555;
+}
+
+.testComponentActivated {
+  background-color: #f0f;
+}
